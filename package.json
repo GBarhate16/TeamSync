@@ -1,0 +1,9 @@
+{
+  "dependencies": {
+    "@headlessui/react": "^2.2.1",
+    "mongodb": "^6.15.0"
+  },
+  "devDependencies": {
+    "@types/dotenv": "^6.1.1"
+  }
+}
